@@ -32,7 +32,7 @@ The project includes manual testing, unit tests, integration tests, and end-to-e
 
 ---
 
-## Backend Setup (Spring Boot)
+## Backend Setup (Spring Boot) et frontend
 
 ```bash
 cd backend
